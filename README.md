@@ -1,3 +1,4 @@
 # demo
 This is my first repository.
-author Tejas
+
+author Tejas Bhavasar
